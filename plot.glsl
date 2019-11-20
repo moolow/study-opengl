@@ -1,3 +1,4 @@
+// Type: Fragment shader
 // Source: https://thebookofshaders.com/05/
 
 #ifdef GL_ES
