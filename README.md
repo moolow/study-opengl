@@ -12,3 +12,4 @@
 # References
 
 1. [LearnOpenGL](https://learnopengl.com)
+2. [The book of shaders](https://thebookofshaders.com)
