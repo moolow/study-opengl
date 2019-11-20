@@ -9,3 +9,6 @@
 
 - 실루엣 구현
 
+# References
+
+1. [LearnOpenGL](https://learnopengl.com)
